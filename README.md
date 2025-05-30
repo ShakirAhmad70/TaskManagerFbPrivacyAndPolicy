@@ -17,7 +17,7 @@ We host the privacy policy here for transparency and verification.
 
 ### 📄 View Privacy Policy
 
-[Click here to view the Privacy Policy](https://shakirahmad70.github.io/TaskManagerFbPrivacyAndPolicy/)
+[Click here to view the Privacy Policy](https://shakirahmad70.github.io/TaskManagerFbPrivacyAndPolicy/FbPrivacyPolicy.html)
 
 ---
 
